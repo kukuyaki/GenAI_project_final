@@ -9,7 +9,7 @@ make a file named .env, within it should contain:
   ```
 - a discord bot token
   ```
-  BOT_TOKEN==<DISCORD_BOT_TOKEN>
+  BOT_TOKEN=<DISCORD_BOT_TOKEN>
   ```
 - modify the discord bot token in the discordbotyeah.py too
 
