@@ -15,5 +15,6 @@
 terminal 1
 - cd .\marytts-installer-5.2\
 - .\marytts.bat
+
 terminal 2
 -python main_folder\s2t2t2s.py
